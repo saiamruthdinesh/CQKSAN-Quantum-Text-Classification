@@ -1,0 +1,16 @@
+{
+    "Baseline_LSTM": {
+        "Accuracy": 1.0,
+        "MCC": 1.0,
+        "F1": 1.0
+    },
+    "Proposed_CQKSAN": {
+        "Accuracy": 1.0,
+        "MCC": 1.0,
+        "F1": 1.0
+    },
+    "Improvements": {
+        "Accuracy_Gain_Percent": 0.0,
+        "MCC_Gain_Percent": 0.0
+    }
+}
